@@ -1,0 +1,154 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+.right ,.left {
+    background-color: #282a35;
+    height: 450px;
+}
+.h1-font {
+    font-size: 80px;
+    padding-top: 10%;
+}
+.color-f {
+    color: #fff;
+}
+.p-10 {
+    font-size: 22px;
+    margin-top: 10px;
+}
+.btn-style {
+    border-radius: 25px;
+    padding: 10px;
+    width: 200px;
+    font-size: 17px;
+    border: none;
+    margin-top: 20px;
+}
+.box1 {
+    background-color: #03c980;
+    color: #fff;
+}
+.box2 {
+    background-color: #fff4a3;
+}
+.box3 {
+    background-color: #fff;
+}
+.container-item1 {
+    width: 100%;
+    background-color: #f2f2f2;
+    margin: auto;
+    border-radius: 7px;
+    margin-bottom: 5px;
+}
+.right {
+    padding: 10%;
+}
+.left-align {
+    text-align: left;
+}
+.h3-st {
+    font-size: 26px;
+    padding: 25px;
+}
+.container-item2 {
+    width: 90%;
+    margin: auto;
+    background-color:#fff;
+    font-size: 15px;
+    text-align: left;
+    padding: 10px;
+    border-left: 4px solid #03c980;
+}
+.btn-st1 {
+    padding: 10px;
+    font-size:18px;
+    border-radius: 15px;
+    width: 200px;
+    border: none;
+    background-color: #03c980;
+    margin: 20px;
+    color: #fff;
+}
+.left-h ,.right-h {
+    height: 80px;
+}
+.list-inline {
+    list-style-type: none;
+}
+.list-items {
+    display: inline-block;
+    font-size: 22px;
+    color: #000;
+    height: 100%;
+    padding: 30px;
+    width: 120px;
+    text-align: center;
+}
+.left-h {
+    text-align: left;
+}
+.con-btn {
+    text-align: right;
+    padding: 10px;
+    padding-top: 20px;
+}
+.btn-st2 {
+    padding: 10px;
+    border: 0;
+    border-radius: 25px;
+    width: 130px;
+    font-size: 18px;
+}
+.btn-a, .btn-c {
+    background-color: #03c980;
+}
+.btn-b {
+    background-color: #f59fd1;
+}
+.menu-btn {
+    margin: 20px;
+    background-color: #f59fd1;
+    display: none;
+}
+.list-items:hover {
+    background-color: #03c980;
+}
+.sidebar {
+    padding-top: 50px;
+}
+.box-1 ,.box-2 ,.box-3 ,.box-3 ,.box-4 {
+    padding: 20px;
+    background-color: red;
+    height: 150px;
+    text-align: center;
+    margin: 10px;
+}
+.hack-2 {
+    display: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
